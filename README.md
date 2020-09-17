@@ -2,6 +2,7 @@ Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean A
 ==============================================================
 
 ## CI
+[![Build Status](https://dev.azure.com/MitikuTeshome/sample-dotnet-core-cqrs-api/_apis/build/status/mitikutesh.sample-dotnet-core-cqrs-api?branchName=master)](https://dev.azure.com/MitikuTeshome/sample-dotnet-core-cqrs-api/_build/latest?definitionId=11&branchName=master)
 
 ![](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api/workflows/Build%20Pipeline/badge.svg)
 
